@@ -1,0 +1,7 @@
+torch>=2.0
+numpy>=1.26
+scipy>=1.14
+pandas>=2.0
+matplotlib
+seaborn
+pytest
